@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
 | [0994-rotting-oranges](https://github.com/cupcakesandcodes/DSA/tree/master/0994-rotting-oranges) |
 ## Breadth-First Search
 |  |
@@ -17,4 +18,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cupcakesandcodes/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
