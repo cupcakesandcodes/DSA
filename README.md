@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/cupcakesandcodes/DSA/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/cupcakesandcodes/DSA/tree/master/0229-majority-element-ii) |
 | [0994-rotting-oranges](https://github.com/cupcakesandcodes/DSA/tree/master/0994-rotting-oranges) |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/cupcakesandcodes/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/cupcakesandcodes/DSA/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/cupcakesandcodes/DSA/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
